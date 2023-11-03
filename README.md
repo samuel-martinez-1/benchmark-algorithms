@@ -1,5 +1,5 @@
 # benchmark
-- set in `realase` mode (debug mode is not allowed for benchmark)
+- set in `realase` mode _(debug mode is not allowed for benchmark)_
 - hit run .... and wait
   
 | Method                                     | Mean        | Error    | StdDev   | Rank | Gen0   | Allocated |
